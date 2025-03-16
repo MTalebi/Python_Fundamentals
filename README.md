@@ -1,9 +1,7 @@
----
+# Python Fundamentals
 
-# Python Fundamentals: An Educational Jupyter Notebook
-
-Author: **Mohammad Talebi-Kalaleh**  
-Contact: [talebika@ualberta.ca](mailto:talebika@ualberta.ca)
+**Author:** Mohammad Talebi-Kalaleh  
+**Contact:** [talebika@ualberta.ca](mailto:talebika@ualberta.ca)
 
 ---
 
@@ -63,7 +61,7 @@ This repository contains a comprehensive Jupyter Notebook designed to teach the 
 
 1. **Clone the Repository**  
    ```bash
-   git clone https://github.com/your-username/Your-Repository.git
+   git clone https://github.com/MTalebi/Python_Fundamentals.git
    ```
 2. **Install Dependencies** (if not already installed)
    ```bash
